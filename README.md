@@ -59,7 +59,7 @@ I'm a self-motivated software developer with a strong focus on full-stack develo
 
 ## 📫 Let's Connect
 
-- 📧 Email: inzamam.executive@kmsdigitechs.com  
+- 📧 Email: inzamam-zam@yandex.com  
 - 🌐 Website: [Coming Soon...]   
 - 💻 Portfolio: [GitHub Repos](Coming Soon...)
 
