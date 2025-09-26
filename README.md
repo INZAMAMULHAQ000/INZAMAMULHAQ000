@@ -1,7 +1,7 @@
-# 👋 Hey there, I'm Inzamam UlHaq
+#  Hey there, I'm Inzamam UlHaq
 
-🚀 Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
-🎯 Building scalable web & mobile apps | Passionate about clean architecture and elegant UI/UX  
+Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
+Building scalable web & mobile apps | Passionate about clean architecture and elegant UI/UX  
 
 I'm a passionate full stack developer and entrepreneur, turning ideas into full-fledged products using modern technologies. From sleek mobile apps in **Flutter** to robust web platforms built on **MERN** and **Java Spring**, I bring performance, scalability, and clean code to the table.
 
@@ -15,16 +15,19 @@ I'm a passionate full stack developer and entrepreneur, turning ideas into full-
 - **React.js** – Component-based UI development
 - **JavaScript / TypeScript**
 - **HTML5 / CSS3 / Bootstrap**
+- **Blazor UI** - Native .net Framework
 
 ### 🧠 Backend
 - **Node.js + Express.js** – RESTful APIs & Real-time apps
 - **PHP (Core & Laravel)** – Scalable backend services
 - **Java Spring Boot** – Secure enterprise-grade APIs
+- **ASP.net (Core & MVC) - Rigid Backend platform
 
 ### 💾 Database
 - **MongoDB** – NoSQL for flexibility
 - **MySQL / PostgreSQL** – Relational data handling
 - **Firebase / Firestore** – Realtime cloud database
+- **SQL SERVER** - Enterprise level SQL
 
 ### ☁️ DevOps & Tools
 - **Git & GitHub** – Version control & collaboration
@@ -61,7 +64,7 @@ I'm a self-motivated software developer with a strong focus on full-stack develo
 
 - 📧 Email: inzamam-zam@yandex.com  
 - 🌐 Website: [Coming Soon...]   
-- 💻 Portfolio: [GitHub Repos](Coming Soon...)
+- 💻 Portfolio: https://github.com/INZAMAMULHAQ000
 
 ---
 
