@@ -1,72 +1,84 @@
-#  Hey there, I'm Inzamam UlHaq
+# 👋 Hey there, I'm Inzamam UlHaq
 
-Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
-Building scalable web & mobile apps | Passionate about clean architecture and elegant UI/UX  
+### 🚀 Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
 
-I'm a passionate full stack developer and entrepreneur, turning ideas into full-fledged products using modern technologies. From sleek mobile apps in **Flutter** to robust web platforms built on **MERN** and **Java Spring**, I bring performance, scalability, and clean code to the table.
+Building **scalable web & mobile applications** with a strong focus on **clean architecture**, **performance**, and **elegant UI/UX**.
 
+I'm a passionate **full stack developer & entrepreneur**, turning ideas into full-fledged digital products using modern technologies. From sleek **Flutter apps** to robust **enterprise-grade backends**, I love crafting solutions that scale.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 🚀 Frontend
-- **Flutter** – Cross-platform mobile development
-- **React.js** – Component-based UI development
-- **JavaScript / TypeScript**
-- **HTML5 / CSS3 / Bootstrap**
-- **Blazor UI** - Native .net Framework
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🧠 Backend
-- **Node.js + Express.js** – RESTful APIs & Real-time apps
-- **PHP (Core & Laravel)** – Scalable backend services
-- **Java Spring Boot** – Secure enterprise-grade APIs
-- **ASP.net (Core & MVC) - Rigid Backend platform
+---
 
-### 💾 Database
-- **MongoDB** – NoSQL for flexibility
-- **MySQL / PostgreSQL** – Relational data handling
-- **Firebase / Firestore** – Realtime cloud database
-- **SQL SERVER** - Enterprise level SQL
+### 🎨 Frontend & UI
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-### ☁️ DevOps & Tools
-- **Git & GitHub** – Version control & collaboration
-- **VS Code / IntelliJ** – Primary IDEs
-- **Postman** – API testing
-- **Figma / Adobe XD** – UI/UX design
+---
+
+### 🧠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### ☁️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🧩 About Me
-I'm a self-motivated software developer with a strong focus on full-stack development. I love converting real-world problems into powerful digital solutions. Whether it’s a mobile app in **Flutter**, a web platform using **MERN**, or enterprise software in **Java Spring**, I bring creativity and code together.
+I’m a **self-driven full stack developer** who loves converting real-world problems into powerful digital solutions.
 
-🔍 Currently:  
-- 🚧 Working on startup projects under **KMS Digitech Solutions**
-- 🧪 Exploring AI & ML integrations into apps  
-- 📚 Always learning and experimenting
+- 🔭 Working on startup projects under **KMS Digitech Solutions**
+- 🧪 Exploring **AI & ML integrations**
+- 📚 Constantly learning & experimenting with new tech
+- 🧠 Strong believer in **clean code & scalable systems**
 
 ---
 
 ## 📈 Services I Offer
 
-✔️ Web App Development (MERN, PHP, Java Spring)  
-✔️ Mobile App Development (Flutter – Android/iOS)  
-✔️ API & Backend Integration  
-✔️ UI/UX Design to Development  
+✔️ Web Application Development (MERN, Java Spring, PHP, .NET)  
+✔️ Mobile App Development (Flutter – Android & iOS)  
+✔️ Backend APIs & System Architecture  
+✔️ UI/UX to Production-ready Code  
 ✔️ Bug Fixing, Optimization & Maintenance  
-✔️ Project Consultation & Technical Guidance
+✔️ Technical Consultation & Project Guidance  
 
-🧾 **Pricing**: Freelance projects accepted at **negotiable rates** – based on scope, timeline, and complexity.  
+💰 **Pricing**: Freelance projects accepted at **negotiable rates** based on scope & complexity.
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: inzamam-zam@yandex.com  
-- 🌐 Website: [Coming Soon...]   
-- 💻 Portfolio: https://github.com/INZAMAMULHAQ000
+- 📧 Email: **inzamam-zam@yandex.com**  
+- 💻 GitHub: [INZAMAMULHAQ000](https://github.com/INZAMAMULHAQ000)
+- 🌐 Website: *Coming Soon...*
 
 ---
 
-> _“Code is not just syntax — it’s problem-solving made visible.”_ 💡
-
+> 💡 _"Code is not just syntax — it’s problem-solving made visible."_
