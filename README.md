@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Inzamam UlHaq
+#  Hey there, I'm Inzamam UlHaq
 
-### 🚀 Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
+###  Full Stack Developer | Flutter Enthusiast | MERN & Java Spring Specialist  
 
 Building **scalable web & mobile applications** with a strong focus on **clean architecture**, **performance**, and **elegant UI/UX**.
 
