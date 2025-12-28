@@ -73,6 +73,39 @@ I’m a **self-driven full stack developer** who loves converting real-world pro
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=INZAMAMULHAQ000&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=INZAMAMULHAQ000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INZAMAMULHAQ000&layout=donut&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=INZAMAMULHAQ000&theme=radical&hide_border=true" alt="GitHub Streak" width="700" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=INZAMAMULHAQ000&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="700" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: **inzamam-zam@yandex.com**  
